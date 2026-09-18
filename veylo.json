@@ -1,0 +1,9 @@
+{
+  "activa": true,
+  "expira": "2026-12-31",
+  "mensaje": "Beta finalizada. Gracias por probar Veylo.",
+  "usuarios": [
+    { "usuario": "Elmer",   "clave": "523c4f4cbf50a4fb98c80024e7d429e76040cf3f46fa1131198de762eede922c" },
+    { "usuario": "Antony",  "clave": "cdab5635643aed4ae40fa9802ef9910dff6afdb868bf7677cc2f1f8c9f71d04b" }
+  ]
+}
